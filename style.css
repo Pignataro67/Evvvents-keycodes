@@ -26,6 +26,10 @@ h3 {
   width: 500px;
 }
 
+textarea {
+  border: none;
+  display: block;
+}
 textarea:focus {
   outline: none;
 }
