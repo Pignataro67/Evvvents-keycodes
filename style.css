@@ -10,3 +10,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   height: 100vh;
 }
+
+.slider-container {
+  position: relative;
+  overflow: hidden;
+}
