@@ -22,3 +22,8 @@ body {
   width: 100vw;
   height: 100vh;
 }
+
+.left-slide {
+  height: 100%;
+  width: 35%;
+} 
